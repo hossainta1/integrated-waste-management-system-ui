@@ -2,7 +2,7 @@ const Footer = () => {
   return (
     <div>
       <footer>
-        <div className="footer bg-blue-500 text-neutral-content p-10 flex justify-between items-center ">
+        <div className="footer bg-indigo-600 text-neutral-content p-10 flex justify-between items-center ">
           {/* Left Section */}
           <aside className="flex items-center gap-4">
             <svg
